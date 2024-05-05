@@ -4,7 +4,7 @@
 <h3 align="center">A highly motivated individual with experience in developing and implementing software solutions. Proven expertise in developing, testing and debugging high performing software solutions with a keen eye for detail. Skilled in object-oriented programming, web development and database technologies. Excellent problem-solving and communication skills and demonstrates a passion for learning and implementing new technologies</h3>
 
 <!-- <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzU776IVDcAWbcqpL7ynpqJgBRVMJ3HHvnjw&usqp=CAU"> -->
-<!--<img align="right" alt="Coding" width="400" src="https://microblink.com/wp-content/uploads/2021/04/header.png">-->
+<img align="right" alt="Coding" width="400" src="https://microblink.com/wp-content/uploads/2021/04/header.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pursuit-florence&label=Profile%20views&color=0e75b6&style=flat" alt="pursuit-florence" /> </p>
 
